@@ -25,6 +25,7 @@ namespace WpfApp_Test
             InitializeComponent();
             // hier zou ik nog wat coderen
             // Dit zijn mijn wijzigingen....
+            // En nog iets aan wijzigingen
 
         }
     }
